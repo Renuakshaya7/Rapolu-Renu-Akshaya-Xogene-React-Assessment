@@ -1,0 +1,26 @@
+# Rapolu-Renu-Akshaya-Xogene-React-Assessment
+
+Create a new repository:
+Go to GitHub account and create a new repository named "Rapolu-Renu-Akshaya-Xogene-React-Assessment" (or any name you prefer).
+
+Clone the repository in VS Code:
+Open VS Code.
+Open the integrated terminal (Ctrl/Cmd + `).
+Navigate to the directory where you want to clone the repository using the cd command.
+Clone the repository using "git clone"
+
+Create a new React application using Vite:
+Once cloned, navigate into the project directory "cd Rapolu-Renu-Akshaya-Xogene-React-Assessment"
+Use Vite to create a new React project "npm create vite@latest Xogene"
+Follow the prompts to set up your Vite project. Choose react and javascript.
+
+Install necessary dependencies:
+Navigate into the newly created project directory "cd Xogene"
+Install Axios "npm install axios"
+Install React Router DOM (for client-side routing in React application) "npm install react-router-dom"
+
+Now write the necessary code
+
+Run the application locally:
+Once you have written your code and installed dependencies, you can start the development server "npm run dev"
+This command starts the Vite development server and typically opens the application in your default web browser at http://localhost:3000.
