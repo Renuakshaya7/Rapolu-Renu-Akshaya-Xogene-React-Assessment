@@ -1,0 +1,58 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 1200px;
+  padding: 20px;
+  margin-bottom: 1000px;
+  margin-left: 50px;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  color: black;
+  background-color: #ccccb3;
+  padding: 10px 80px;
+  margin-bottom: 20px;
+  width: 1200px;
+}
+
+.App-logo {
+  height: 50px;
+  margin-right: 20px;
+}
+
+.main-content {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+  color: red;
+}
+
+.drug-details {
+  margin-top: 20px;
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
+
+.search-container {
+  text-align: center; 
+}
+
+.search-results {
+  list-style-type: none;
+  padding: 0;
+}
+
+.search-results li {
+  margin-bottom: 5px;
+}
+
+.search-results li a {
+  text-decoration: none;
+  color: #007bff;
+}
